@@ -2,7 +2,7 @@
 ## React Projects Starter APP
 ## A simple web app for Beginners
 
-Format: ![Alt Text](https://github.com/cforcross/Reviews-App-Reactjs/blob/main/reviews.PNG)
+ ![Alt Text](https://github.com/cforcross/Reviews-App-Reactjs/blob/main/reviews.PNG)
 
 ## credits:
  
